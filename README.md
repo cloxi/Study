@@ -1,2 +1,5 @@
 # Study
-for studying code
+for studying code!
+
+hello world!
+ 
